@@ -39,7 +39,7 @@ I am passionate about transforming raw data into meaningful insights and interac
 - Figma
 ---
 ## 📂 Featured Projects
-### 🏦 Bank Loan Report Dashboard
+## 🏦 Bank Loan Report Dashboard
 An interactive Power BI dashboard designed to analyze loan applications, funded amounts, repayments, loan quality, and borrower insights. The dashboard helps stakeholders monitor lending performance and identify business trends.
 🔗 Project Link:
 https://github.com/Waris9782/Bank-Loan-Report-Dashboard
