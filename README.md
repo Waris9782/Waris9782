@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Waris Khan
 ## 📊 Data Analyst | Power BI Developer | SQL Enthusiast
 Welcome to my GitHub profile!
-I am passionate about transforming raw data into meaningful insights and interactive dashboards. I enjoy analyzing data, solving business problems, and creating visualizations that support better decision-making.
+**I am passionate about transforming raw data into meaningful insights and interactive dashboards. I enjoy analyzing data, solving business problems, and creating visualizations that support better decision-making.**
 ---
 ## 🚀 What You'll Find Here
 - 📈 Data Analytics Projects
@@ -40,7 +40,7 @@ I am passionate about transforming raw data into meaningful insights and interac
 ---
 ## 📂 Featured Projects
 ## 🏦 Bank Loan Report Dashboard
-An interactive Power BI dashboard designed to analyze loan applications, funded amounts, repayments, loan quality, and borrower insights. The dashboard helps stakeholders monitor lending performance and identify business trends.
+**An interactive Power BI dashboard designed to analyze loan applications, funded amounts, repayments, loan quality, and borrower insights. The dashboard helps stakeholders monitor lending performance and identify business trends.**
 🔗 Project Link:
 https://github.com/Waris9782/Bank-Loan-Report-Dashboard
 ---
@@ -53,7 +53,7 @@ https://github.com/Waris9782/Bank-Loan-Report-Dashboard
 ---
 ## 📫 Connect With Me
 - GitHub: https://github.com/Waris9782
-- LinkedIn: Add Your LinkedIn Profile Link
+- LinkedIn: https://www.linkedin.com/in/wariskhan01/
 ---
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
